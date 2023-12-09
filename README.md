@@ -1,12 +1,17 @@
 ### Hi there 👋, I'm Tasin
 ![](https://i.imgur.com/SQXDeat.jpg)
 
--👋 Hello World! I'm Md.Tasin Alam, a final-year Computer Science student at Daffodil International University in Dhaka, Bangladesh, and I'm on the verge of unleashing my passion for web development into the professional realm.
--🚀 Actively seeking job opportunities, my journey in Computer Science has cultivated a strong foundation in the MERN stack. Currently immersed in a dynamic Health and Wellness Tracker project, I'm honing my skills in MongoDB, Mongoose, Express.js, React.js, Next.js, and Node.js to craft robust and innovative solutions.
--🌟 As graduation approaches, my goal is to leverage my expertise in web development to contribute to groundbreaking projects and collaborate with forward-thinking teams. With proficiency in the MERN stack, I specialize in creating immersive user experiences through clean and efficient JavaScript code.
--🎓 Excited about the possibilities that lie ahead, I'm open to exploring new opportunities and connecting with professionals in the tech community. Let's build something amazing together and shape the future of the web! 🚀
+- 👋 **Hello World!** I’m Md. Tasin Alam, a final-year Computer Science student at Daffodil International University in Dhaka, Bangladesh, ready to dive into the professional world of web development.
 
-Skills: <p align="center">
+- 🚀 **Actively Seeking Opportunities:** Currently exploring job opportunities, I've built a robust foundation in the MERN stack. Engaged in a dynamic Health and Wellness Tracker project, I'm sharpening my skills in MongoDB, Mongoose, Express.js, React.js, Next.js, and Node.js.
+
+- 🌟 **Passion for Innovation:** As graduation nears, my goal is to leverage my expertise in web development to contribute to groundbreaking projects and collaborate with forward-thinking teams.
+
+- 🎓 **MERN Stack Specialist:** Proficient in the MERN stack, I specialize in crafting immersive user experiences through clean and efficient JavaScript code.
+
+- 🚀 **Excited for the Future:** With excitement about the possibilities ahead, I’m open to exploring new opportunities and connecting with professionals in the tech community. Let’s collaborate and build something amazing together to shape the future of the web!
+
+**Skills:** <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,figma,nodejs,react,tailwind,canva" />
   </a>
