@@ -9,18 +9,20 @@
 
 - 🎓 **DevOps Enthusiast:** Proficient in tools and technologies like Docker, Kubernetes, Jenkins, AWS, and Terraform, I specialize in creating efficient and automated deployment pipelines.
 
+- 🖥️ **Frontend Development Experience:** Before transitioning into DevOps, I built a robust foundation in frontend development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I have experience crafting immersive user experiences through clean and efficient JavaScript code.
+
 - 🚀 **Excited for the Future:** Always eager to explore new challenges and connect with professionals in the tech community. Let’s collaborate and build something amazing together to shape the future of technology!
 
 **Skills:** <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,jenkins,aws,terraform,python,bash,ansible" />
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,jenkins,aws,terraform,python,bash,ansible,react,nodejs,mongodb,express,html,css,js" />
   </a>
 </p>
 
 - 🔭 I’m currently working on automating deployment processes for web applications 
 - 🌱 I’m currently learning Kubernetes, Terraform 
 - 👯 I’m looking to collaborate on DevOps projects on GitHub 
-- 💬 Ask me about CI/CD, cloud infrastructure, and automation 
+- 💬 Ask me about CI/CD, cloud infrastructure, automation, and frontend development 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tasin007)  
 
