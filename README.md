@@ -1,27 +1,26 @@
 ### Hi there 👋, I'm Tasin
 ![](https://i.imgur.com/SQXDeat.jpg)
 
-- 👋 **Hello World!** I’m Md. Tasin Alam, a final-year Computer Science student at Daffodil International University in Dhaka, Bangladesh, ready to dive into the professional world of web development.
+- 👋 **Hello World!** I’m Md. Tasin Alam, a Computer Science graduate from Daffodil International University in Dhaka, Bangladesh, and a passionate DevOps Engineer at Rosebaytech Ltd, a leading multinational company.
 
-- 🚀 **Actively Seeking Opportunities:** Currently exploring job opportunities, I've built a robust foundation in the MERN stack. Engaged in a dynamic Health and Wellness Tracker project, I'm sharpening my skills in MongoDB, Mongoose, Express.js, React.js, Next.js, and Node.js.
+- 🚀 **Currently Employed:** Working at Rosebaytech Ltd, I am dedicated to enhancing the efficiency and reliability of our deployment pipelines and infrastructure. My focus is on continuous integration and continuous deployment (CI/CD), infrastructure as code (IaC), and cloud technologies.
 
-- 🌟 **Passion for Innovation:** As graduation nears, my goal is to leverage my expertise in web development to contribute to groundbreaking projects and collaborate with forward-thinking teams.
+- 🌟 **Passion for Automation:** My goal is to leverage my expertise in DevOps to streamline processes, enhance productivity, and contribute to innovative projects by collaborating with forward-thinking teams.
 
-- 🎓 **MERN Stack Specialist:** Proficient in the MERN stack, I specialize in crafting immersive user experiences through clean and efficient JavaScript code.
+- 🎓 **DevOps Enthusiast:** Proficient in tools and technologies like Docker, Kubernetes, Jenkins, AWS, and Terraform, I specialize in creating efficient and automated deployment pipelines.
 
-- 🚀 **Excited for the Future:** With excitement about the possibilities ahead, I’m open to exploring new opportunities and connecting with professionals in the tech community. Let’s collaborate and build something amazing together to shape the future of the web!
+- 🚀 **Excited for the Future:** Always eager to explore new challenges and connect with professionals in the tech community. Let’s collaborate and build something amazing together to shape the future of technology!
 
 **Skills:** <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,figma,nodejs,react,tailwind,canva" />
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,jenkins,aws,terraform,python,bash,ansible" />
   </a>
 </p>
 
-- 🔭 I’m currently working on a Health & Wellness Tracker Project 
-- 🌱 I’m currently learning Mongoose,Next.js 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-
+- 🔭 I’m currently working on automating deployment processes for web applications 
+- 🌱 I’m currently learning Kubernetes, Terraform 
+- 👯 I’m looking to collaborate on DevOps projects on GitHub 
+- 💬 Ask me about CI/CD, cloud infrastructure, and automation 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tasin007)  
 
@@ -34,4 +33,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasin007&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Tasin007)  
-
