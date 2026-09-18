@@ -5,7 +5,7 @@
 [![English](https://img.shields.io/badge/English-111111?style=for-the-badge)](README.md)
 [![日本語](https://img.shields.io/badge/日本語-B91C1C?style=for-the-badge)](README.ja.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=B91C1C&center=true&vCenter=true&width=850&lines=DevOps+%26+Cloud+Engineer;Production+Infrastructure+%26+Automation;LLM-Driven+Web+Automation+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=B91C1C&center=true&vCenter=true&width=850&lines=DevOps+%26+Cloud+Engineer;Kubernetes+%7C+DevSecOps+%7C+SRE;Production+Infrastructure+%26+Automation;LLM-Driven+Web+Automation+Research)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tasin007&label=PROFILE+VIEWS&color=B91C1C&style=flat-square)](https://github.com/Tasin007)
 ![Japan](https://img.shields.io/badge/JAPAN-就職機会を探しています-B91C1C?style=flat-square&logo=googlemaps&logoColor=white)
@@ -57,6 +57,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF)
@@ -80,7 +81,15 @@ AWS EC2、S3、RDS、IAM · Linux／Ubuntu · ネットワーク · Nginx · ロ
 <summary><b>コンテナ、CI/CD、構成管理</b></summary>
 <br>
 
-Docker · Docker Swarm · Docker Compose · Docker API · Jenkins · GitHub Actions · Git · GitHub · Ansible · Chef
+Kubernetes · Docker · Docker Swarm · Docker Compose · Docker API · Jenkins · GitHub Actions · Git · GitHub · Ansible · Chef
+
+</details>
+
+<details>
+<summary><b>DevSecOps・セキュアソフトウェア開発</b></summary>
+<br>
+
+セキュアソフトウェア開発 · CI/CDセキュリティの基礎 · OpenSSFベストプラクティス · セキュアパイプラインの原則
 
 </details>
 
@@ -88,7 +97,7 @@ Docker · Docker Swarm · Docker Compose · Docker API · Jenkins · GitHub Acti
 <summary><b>監視、ログ、信頼性</b></summary>
 <br>
 
-Prometheus · Grafana · OpenSearch · Filebeat · Telegram通知 · 集中ログ · 障害対応 · 原因分析
+Prometheus · Grafana · OpenSearch · Filebeat · Telegram通知 · Site Reliability Engineering（SRE） · 集中ログ · 障害対応 · 原因分析
 
 </details>
 
@@ -136,11 +145,14 @@ Python · Bash · Shell Script · PowerShell · JavaScript · Node.js · Express
 
 ## 語学・資格
 
-| 項目 | レベル |
+| 項目 | レベル・発行元 |
 |---|---|
 | 英語 | TOEIC Listening & Reading **795／990** |
 | 日本語 | 初級。JLPT N4レベルの教材で学習中 |
 | 研修 | Complete Web Development — Programming Hero |
+| 資格 | **Developing Secure Software (LFD121)** — The Linux Foundation / OpenSSF |
+| 資格 | **Introduction to Kubernetes (LFS158)** — The Linux Foundation |
+| 資格 | **Introduction to DevOps and Site Reliability Engineering (LFS162)** — The Linux Foundation |
 
 ## GitHub概要
 
@@ -176,8 +188,8 @@ Python · Bash · Shell Script · PowerShell · JavaScript · Node.js · Express
 
 ## 現在の方向性
 
-- 信頼性の高いクラウド／コンテナ基盤の構築
-- CI/CD、可観測性、インフラ自動化の改善
+- 信頼性の高いクラウド／Kubernetesコンテナ基盤の構築
+- セキュアCI/CD、DevSecOps、SRE、可観測性、インフラ自動化の改善
 - インテリジェント・ブラウザエージェントとLLMワークフローの研究
 - 日本国内のDevOps、Cloud、SRE、Platform Engineering、Infrastructure、MLOps関連の就職機会
 
