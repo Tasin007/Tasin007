@@ -5,7 +5,7 @@
 [![English](https://img.shields.io/badge/English-B91C1C?style=for-the-badge)](README.md)
 [![日本語](https://img.shields.io/badge/日本語-111111?style=for-the-badge)](README.ja.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=B91C1C&center=true&vCenter=true&width=850&lines=DevOps+%26+Cloud+Engineer;Production+Infrastructure+%26+Automation;LLM-Driven+Web+Automation+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=B91C1C&center=true&vCenter=true&width=850&lines=DevOps+%26+Cloud+Engineer;Kubernetes+%7C+DevSecOps+%7C+SRE;Production+Infrastructure+%26+Automation;LLM-Driven+Web+Automation+Research)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tasin007&label=PROFILE+VIEWS&color=B91C1C&style=flat-square)](https://github.com/Tasin007)
 ![Japan](https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-JAPAN-B91C1C?style=flat-square&logo=googlemaps&logoColor=white)
@@ -57,6 +57,7 @@ User Goal → Planner → Browser Actions → DOM Observation → Memory → Nex
 
 ![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF)
@@ -80,7 +81,15 @@ AWS EC2, S3, RDS and IAM · Linux/Ubuntu · Networking · Nginx · Load balancin
 <summary><b>Containers, CI/CD and Configuration Management</b></summary>
 <br>
 
-Docker · Docker Swarm · Docker Compose · Docker API · Jenkins · GitHub Actions · Git · GitHub · Ansible · Chef
+Kubernetes · Docker · Docker Swarm · Docker Compose · Docker API · Jenkins · GitHub Actions · Git · GitHub · Ansible · Chef
+
+</details>
+
+<details>
+<summary><b>DevSecOps and Secure Software</b></summary>
+<br>
+
+Secure software development · CI/CD security fundamentals · OpenSSF best practices · Secure pipeline principles
 
 </details>
 
@@ -88,7 +97,7 @@ Docker · Docker Swarm · Docker Compose · Docker API · Jenkins · GitHub Acti
 <summary><b>Observability, Logging and Reliability</b></summary>
 <br>
 
-Prometheus · Grafana · OpenSearch · Filebeat · Telegram alerting · Centralized logging · Incident troubleshooting · Root-cause analysis
+Prometheus · Grafana · OpenSearch · Filebeat · Telegram alerting · Site Reliability Engineering (SRE) · Centralized logging · Incident troubleshooting · Root-cause analysis
 
 </details>
 
@@ -136,11 +145,14 @@ Python · Bash · Shell scripting · PowerShell · JavaScript · Node.js · Expr
 
 ## Languages and Credentials
 
-| Language or credential | Level |
+| Language or credential | Level or issuer |
 |---|---|
 | English | TOEIC Listening & Reading **795/990** |
 | Japanese | Beginner; studying N4-level material |
 | Training | Complete Web Development — Programming Hero |
+| Certification | **Developing Secure Software (LFD121)** — The Linux Foundation / OpenSSF |
+| Certification | **Introduction to Kubernetes (LFS158)** — The Linux Foundation |
+| Certification | **Introduction to DevOps and Site Reliability Engineering (LFS162)** — The Linux Foundation |
 
 ## GitHub Overview
 
@@ -176,8 +188,8 @@ Python · Bash · Shell scripting · PowerShell · JavaScript · Node.js · Expr
 
 ## Current Direction
 
-- Building reliable cloud and container platforms
-- Improving CI/CD, observability, and infrastructure automation
+- Building reliable cloud and Kubernetes-based container platforms
+- Improving secure CI/CD, DevSecOps, SRE, observability, and infrastructure automation
 - Researching intelligent browser agents and LLM-driven workflows
 - Exploring DevOps, Cloud, SRE, Platform Engineering, Infrastructure, and MLOps opportunities in Japan
 
